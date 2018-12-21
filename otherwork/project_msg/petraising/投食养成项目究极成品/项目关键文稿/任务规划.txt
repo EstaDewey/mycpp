@@ -1,0 +1,75 @@
+PetAttribute(string petName,string petRace,int petHp,int petPhypower,int petFighting,int petBefull,int petFoodconsumption,int petLifetime,int petSurvivaldays,int choice) 宠物属性
+string name      宠物昵称
+string race	     宠物种族
+int hp	     宠物生命值
+int phypower 宠物体力
+int fighting  宠物武力
+int befull    宠物饱食度
+int foodconsumption  宠物食物每天消耗
+int action    宠物行动
+int lifetime  宠物寿命
+int survivaldays 宠物生存天数
+int choice
+return ...		//浅挚任务
+
+GameInterface 游戏选择界面
+petFeed       喂食
+petAdventure  探索
+petLearn      学习
+userparcel    背包	//子疯任务
+
+ChoicePetrace()  选择宠物
+myDinosaur   恐龙
+myCaterpillar  毛毛虫
+mySpongia    海绵
+mySlime      史莱姆
+返回 相应的选项,直接写入属性，包括打印	//笑容任务
+
+
+PetFeed(string race)       喂食
+petFood       宠物食物
+exitPetFeed   退出喂食	//笑容任务
+
+PetAdventure(string race)  探索
+petRace   宠物种族
+adtJungle 探索丛林
+adtSeaside 探索海边
+adtRemotemountains 探索深山
+adtleaf    探索树叶
+adtflower  探索花朵
+adtTree    探索树
+adtSeabed  探索海底
+adtSupermarket 探索超市
+adtRestaurant  探索饭店
+adtLab        探索实验室
+adtFlatlands  探索平原
+adtSewer      探索下水道	//史莱姆任务
+
+
+UserParcel()    背包
+exitParcel  退出背包
+displayMaterials 显示物品
+//displayEquipage  显示装备
+exitDisplayMaterials 退出显示物品
+//exitDisplayEquipage 退出显示装备
+discard  丢弃
+employ   使用	//威
+
+Petreflect（int reflect）    宠物反馈
+petFeedReflect 宠物喂食反馈
+petAdventureReflect 宠物探索反馈	//威
+//petLearnReflect 宠物学习反馈
+
+PetDemise(int reflect)    宠物死亡
+petBefullDemise  宠物饱腹死亡
+petHungryDemise  宠物饥饿死亡
+petHpEmpty   宠物血量清0死亡	
+petLifeEmpty 宠物寿命归零死亡
+Achievement  成就函数	//判断属性饱食度浅挚
+
+AcquireMaterials(int reflect)  获得物品
+materials[][]   物品		//子疯
+
+Achievement(int race)  成就
+achievementRace[][]  种族成就
+achievementCurrent   通用成就	//子疯

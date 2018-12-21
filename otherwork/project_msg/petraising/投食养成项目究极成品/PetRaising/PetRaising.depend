@@ -1,0 +1,1061 @@
+# depslib dependency file v1.0
+1538562945 source:c:\users\administrator.eit-20160801oqp\desktop\pj\attrbute.cpp
+	"Attribute.h"
+
+1538560712 c:\users\administrator.eit-20160801oqp\desktop\pj\attribute.h
+	"ChoicePet.h"
+	<stdio.h>
+	<string>
+
+1538539836 source:c:\users\administrator.eit-20160801oqp\desktop\pj\choicepet.cpp
+	<iostream>
+	<windows.h>
+	"ChoicePet.h"
+
+1538540362 c:\users\administrator.eit-20160801oqp\desktop\pj\choicepet.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<windows.h>
+	"GameInterface.h"
+
+1538541042 c:\users\administrator.eit-20160801oqp\desktop\pj\gameinterface.h
+	"ChoicePet.h"
+	"Demise.h"
+	"Adventure.h"
+	"gameInterface.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538540225 c:\users\administrator.eit-20160801oqp\desktop\pj\demise.h
+	<stdio.h>
+	"ChoicePet.h"
+
+1538557418 c:\users\administrator.eit-20160801oqp\desktop\pj\adventure.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	"Choicepet.h"
+
+1538562990 c:\users\administrator.eit-20160801oqp\desktop\pj\parcel.h
+	<iostream>
+	<string>
+	"Adventure.h"
+	"Choicepet.h"
+	"Attribute.h"
+
+1538540362 source:c:\users\administrator.eit-20160801oqp\desktop\pj\demise.cpp
+	"Demise.h"
+
+1538561282 source:c:\users\administrator.eit-20160801oqp\desktop\pj\gameinterface.cpp
+	"GameInterface.h"
+	"Choicepet.h"
+
+1538541200 source:c:\users\administrator.eit-20160801oqp\desktop\pj\main.cpp
+	<iostream>
+	"GameInterface.h"
+	"ChoicePet.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538563122 source:c:\users\administrator.eit-20160801oqp\desktop\pj\parcel.cpp
+	<iostream>
+	<string>
+	"Attribute.h"
+	"Parcel.h"
+
+1538562181 source:c:\users\administrator.eit-20160801oqp\desktop\pj\adventure.cpp
+	"Adventure.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538566747 source:c:\users\qzblx\desktop\pj\adventure.cpp
+	"Adventure.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538566743 c:\users\qzblx\desktop\pj\adventure.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	"Choicepet.h"
+
+1538566724 c:\users\qzblx\desktop\pj\choicepet.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<windows.h>
+	"GameInterface.h"
+
+1538566709 c:\users\qzblx\desktop\pj\gameinterface.h
+	"ChoicePet.h"
+	"Demise.h"
+	"Adventure.h"
+	"gameInterface.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538566716 c:\users\qzblx\desktop\pj\demise.h
+	<stdio.h>
+	"ChoicePet.h"
+
+1538566737 c:\users\qzblx\desktop\pj\attribute.h
+	"ChoicePet.h"
+	<stdio.h>
+	<string>
+
+1538566695 c:\users\qzblx\desktop\pj\parcel.h
+	<iostream>
+	<string>
+	"Adventure.h"
+	"Choicepet.h"
+	"Attribute.h"
+
+1538566566 source:c:\users\qzblx\desktop\pj\attrbute.cpp
+	"Attribute.h"
+
+1538566734 source:c:\users\qzblx\desktop\pj\choicepet.cpp
+	<iostream>
+	<windows.h>
+	"ChoicePet.h"
+
+1538566721 source:c:\users\qzblx\desktop\pj\demise.cpp
+	"Demise.h"
+
+1538566713 source:c:\users\qzblx\desktop\pj\gameinterface.cpp
+	"GameInterface.h"
+	"Choicepet.h"
+
+1538566566 source:c:\users\qzblx\desktop\pj\main.cpp
+	<iostream>
+	"GameInterface.h"
+	"ChoicePet.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538563122 source:c:\users\qzblx\desktop\pj\parcel.cpp
+	<iostream>
+	<string>
+	"Attribute.h"
+	"Parcel.h"
+
+1538569989 source:f:\nbuqi\c++_project\petraising\petraising\adventure.cpp
+	"Adventure.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538566743 f:\nbuqi\c++_project\petraising\petraising\adventure.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	"Choicepet.h"
+
+1538566724 f:\nbuqi\c++_project\petraising\petraising\choicepet.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<windows.h>
+	"GameInterface.h"
+
+1538569022 f:\nbuqi\c++_project\petraising\petraising\gameinterface.h
+	"ChoicePet.h"
+	"Demise.h"
+	"Adventure.h"
+	"gameInterface.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538566716 f:\nbuqi\c++_project\petraising\petraising\demise.h
+	<stdio.h>
+	"ChoicePet.h"
+
+1538569022 f:\nbuqi\c++_project\petraising\petraising\attribute.h
+	"ChoicePet.h"
+	<stdio.h>
+	<string>
+
+1538566695 f:\nbuqi\c++_project\petraising\petraising\parcel.h
+	<iostream>
+	<string>
+	"Adventure.h"
+	"Choicepet.h"
+	"Attribute.h"
+
+1538569270 source:f:\nbuqi\c++_project\petraising\petraising\attrbute.cpp
+	"Attribute.h"
+
+1538570567 source:f:\nbuqi\c++_project\petraising\petraising\choicepet.cpp
+	<iostream>
+	<windows.h>
+	"ChoicePet.h"
+
+1538566721 source:f:\nbuqi\c++_project\petraising\petraising\demise.cpp
+	"Demise.h"
+
+1538566566 source:f:\nbuqi\c++_project\petraising\petraising\main.cpp
+	<iostream>
+	"GameInterface.h"
+	"ChoicePet.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538570811 source:f:\nbuqi\c++_project\petraising\petraising\parcel.cpp
+	<iostream>
+	<string>
+	"Attribute.h"
+	"Parcel.h"
+
+1538571498 source:f:\nbuqi\c++_project\petraising\petraising\gameinterface.cpp
+	"GameInterface.h"
+
+1538751736 source:f:\nanzifeng\c++_project\petraisings\petraising\adventure.cpp
+	<stdlib.h>
+	"Adventure.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538749696 f:\nanzifeng\c++_project\petraisings\petraising\adventure.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	"Choicepet.h"
+
+1538666765 f:\nanzifeng\c++_project\petraisings\petraising\choicepet.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<windows.h>
+	"GameInterface.h"
+
+1538666765 f:\nanzifeng\c++_project\petraisings\petraising\gameinterface.h
+	"ChoicePet.h"
+	"Demise.h"
+	"Adventure.h"
+	"gameInterface.h"
+	"Attribute.h"
+	"Parcel.h"
+	"PetFeed.h"
+
+1538566716 f:\nanzifeng\c++_project\petraisings\petraising\demise.h
+	<stdio.h>
+	"ChoicePet.h"
+
+1538749052 f:\nanzifeng\c++_project\petraisings\petraising\attribute.h
+	"ChoicePet.h"
+	<stdio.h>
+	<string>
+
+1538596293 f:\nanzifeng\c++_project\petraisings\petraising\parcel.h
+	<iostream>
+	<string>
+	"Adventure.h"
+	"Choicepet.h"
+	"Attribute.h"
+
+1538749083 source:f:\nanzifeng\c++_project\petraisings\petraising\attrbute.cpp
+	"Attribute.h"
+
+1538746105 source:f:\nanzifeng\c++_project\petraisings\petraising\choicepet.cpp
+	<iostream>
+	<windows.h>
+	"ChoicePet.h"
+
+1538745368 source:f:\nanzifeng\c++_project\petraisings\petraising\gameinterface.cpp
+	<iostream>
+	<windows.h>
+	"ChoicePet.h"
+	"GameInterface.h"
+
+1538747743 source:f:\nanzifeng\c++_project\petraisings\petraising\main.cpp
+	<iostream>
+	"GameInterface.h"
+	"ChoicePet.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538750912 source:f:\nanzifeng\c++_project\petraisings\petraising\parcel.cpp
+	<iostream>
+	<string>
+	"Attribute.h"
+	"Parcel.h"
+	"GameInterface.h"
+
+1538748662 source:f:\nanzifeng\c++_project\petraisings\petraising\demise.cpp
+	"Demise.h"
+
+1538748991 source:f:\nanzifeng\c++_project\petraisings\petraising\petfeed.cpp
+	"PetFeed.h"
+
+1538589616 f:\nanzifeng\c++_project\petraisings\petraising\petfeed.h
+	<iostream>
+	"Choicepet.h"
+	"Adventure.h"
+	"Parcel.h"
+
+1538644730 source:c:\users\qzblx\desktop\petraising\adventure.cpp
+	<stdlib.h>
+	"Adventure.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538643398 c:\users\qzblx\desktop\petraising\adventure.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	"Choicepet.h"
+
+1538566724 c:\users\qzblx\desktop\petraising\choicepet.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<windows.h>
+	"GameInterface.h"
+
+1538645036 c:\users\qzblx\desktop\petraising\gameinterface.h
+	"ChoicePet.h"
+	"Demise.h"
+	"Adventure.h"
+	"gameInterface.h"
+	"Attribute.h"
+	"Parcel.h"
+	"PetFeed.h"
+
+1538566716 c:\users\qzblx\desktop\petraising\demise.h
+	<stdio.h>
+	"ChoicePet.h"
+
+1538594076 c:\users\qzblx\desktop\petraising\attribute.h
+	"ChoicePet.h"
+	<stdio.h>
+	<string>
+
+1538596293 c:\users\qzblx\desktop\petraising\parcel.h
+	<iostream>
+	<string>
+	"Adventure.h"
+	"Choicepet.h"
+	"Attribute.h"
+
+1538589616 c:\users\qzblx\desktop\petraising\petfeed.h
+	<iostream>
+	"Choicepet.h"
+	"Adventure.h"
+	"Parcel.h"
+
+1538644088 source:c:\users\qzblx\desktop\petraising\attrbute.cpp
+	"Attribute.h"
+
+1538579338 source:c:\users\qzblx\desktop\petraising\demise.cpp
+	"Demise.h"
+
+1538630367 source:c:\users\qzblx\desktop\petraising\main.cpp
+	<iostream>
+	"GameInterface.h"
+	"ChoicePet.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538651524 source:c:\users\qzblx\desktop\petraising\parcel.cpp
+	<iostream>
+	<string>
+	"Attribute.h"
+	"Parcel.h"
+	"GameInterface.h"
+
+1538651133 source:c:\users\qzblx\desktop\petraising\petfeed.cpp
+	"PetFeed.h"
+
+1538650823 source:c:\users\qzblx\desktop\petraising\choicepet.cpp
+	<iostream>
+	<windows.h>
+	"ChoicePet.h"
+
+1538650882 source:c:\users\qzblx\desktop\petraising\gameinterface.cpp
+	<iostream>
+	<windows.h>
+	"ChoicePet.h"
+	"GameInterface.h"
+
+1538757222 source:c:\users\administrator\desktop\petraising (1)\petraising\adventure.cpp
+	<stdlib.h>
+	"Adventure.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538756883 c:\users\administrator\desktop\petraising (1)\petraising\adventure.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	"Choicepet.h"
+
+1538666766 c:\users\administrator\desktop\petraising (1)\petraising\choicepet.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<windows.h>
+	"GameInterface.h"
+
+1538666766 c:\users\administrator\desktop\petraising (1)\petraising\gameinterface.h
+	"ChoicePet.h"
+	"Demise.h"
+	"Adventure.h"
+	"gameInterface.h"
+	"Attribute.h"
+	"Parcel.h"
+	"PetFeed.h"
+
+1538566718 c:\users\administrator\desktop\petraising (1)\petraising\demise.h
+	<stdio.h>
+	"ChoicePet.h"
+
+1538753121 c:\users\administrator\desktop\petraising (1)\petraising\attribute.h
+	"ChoicePet.h"
+	<stdio.h>
+	<string>
+
+1538596294 c:\users\administrator\desktop\petraising (1)\petraising\parcel.h
+	<iostream>
+	<string>
+	"Adventure.h"
+	"Choicepet.h"
+	"Attribute.h"
+
+1538589618 c:\users\administrator\desktop\petraising (1)\petraising\petfeed.h
+	<iostream>
+	"Choicepet.h"
+	"Adventure.h"
+	"Parcel.h"
+
+1538752991 source:c:\users\administrator\desktop\petraising (1)\petraising\attrbute.cpp
+	"Attribute.h"
+
+1538746106 source:c:\users\administrator\desktop\petraising (1)\petraising\choicepet.cpp
+	<iostream>
+	<windows.h>
+	"ChoicePet.h"
+
+1538748664 source:c:\users\administrator\desktop\petraising (1)\petraising\demise.cpp
+	"Demise.h"
+
+1538745370 source:c:\users\administrator\desktop\petraising (1)\petraising\gameinterface.cpp
+	<iostream>
+	<windows.h>
+	"ChoicePet.h"
+	"GameInterface.h"
+
+1538747744 source:c:\users\administrator\desktop\petraising (1)\petraising\main.cpp
+	<iostream>
+	"GameInterface.h"
+	"ChoicePet.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538748992 source:c:\users\administrator\desktop\petraising (1)\petraising\petfeed.cpp
+	"PetFeed.h"
+
+1538756883 source:c:\users\administrator\desktop\petraising (1)\petraising\parcel.cpp
+	<iostream>
+	<string>
+	"Attribute.h"
+	"Parcel.h"
+	"GameInterface.h"
+
+1538757222 source:c:\users\qzblx\desktop\petraising (1)\petraising\adventure.cpp
+	<stdlib.h>
+	"Adventure.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538756883 c:\users\qzblx\desktop\petraising (1)\petraising\adventure.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	"Choicepet.h"
+
+1538666766 c:\users\qzblx\desktop\petraising (1)\petraising\choicepet.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<windows.h>
+	"GameInterface.h"
+
+1538666766 c:\users\qzblx\desktop\petraising (1)\petraising\gameinterface.h
+	"ChoicePet.h"
+	"Demise.h"
+	"Adventure.h"
+	"gameInterface.h"
+	"Attribute.h"
+	"Parcel.h"
+	"PetFeed.h"
+
+1538566718 c:\users\qzblx\desktop\petraising (1)\petraising\demise.h
+	<stdio.h>
+	"ChoicePet.h"
+
+1538753121 c:\users\qzblx\desktop\petraising (1)\petraising\attribute.h
+	"ChoicePet.h"
+	<stdio.h>
+	<string>
+
+1538596294 c:\users\qzblx\desktop\petraising (1)\petraising\parcel.h
+	<iostream>
+	<string>
+	"Adventure.h"
+	"Choicepet.h"
+	"Attribute.h"
+
+1538589618 c:\users\qzblx\desktop\petraising (1)\petraising\petfeed.h
+	<iostream>
+	"Choicepet.h"
+	"Adventure.h"
+	"Parcel.h"
+
+1538752991 source:c:\users\qzblx\desktop\petraising (1)\petraising\attrbute.cpp
+	"Attribute.h"
+
+1538746106 source:c:\users\qzblx\desktop\petraising (1)\petraising\choicepet.cpp
+	<iostream>
+	<windows.h>
+	"ChoicePet.h"
+
+1538748664 source:c:\users\qzblx\desktop\petraising (1)\petraising\demise.cpp
+	"Demise.h"
+
+1538745370 source:c:\users\qzblx\desktop\petraising (1)\petraising\gameinterface.cpp
+	<iostream>
+	<windows.h>
+	"ChoicePet.h"
+	"GameInterface.h"
+
+1538747744 source:c:\users\qzblx\desktop\petraising (1)\petraising\main.cpp
+	<iostream>
+	"GameInterface.h"
+	"ChoicePet.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538783989 source:c:\users\qzblx\desktop\petraising (1)\petraising\petfeed.cpp
+	"PetFeed.h"
+
+1538784092 source:c:\users\qzblx\desktop\petraising (1)\petraising\parcel.cpp
+	<iostream>
+	<string>
+	"Attribute.h"
+	"Parcel.h"
+	"GameInterface.h"
+
+1538796696 source:c:\users\administrator\desktop\chuanxin\chuanxin\adventure.cpp
+	<stdlib.h>
+	"Adventure.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538756883 c:\users\administrator\desktop\chuanxin\chuanxin\adventure.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	"Choicepet.h"
+
+1538666766 c:\users\administrator\desktop\chuanxin\chuanxin\choicepet.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<windows.h>
+	"GameInterface.h"
+
+1538666766 c:\users\administrator\desktop\chuanxin\chuanxin\gameinterface.h
+	"ChoicePet.h"
+	"Demise.h"
+	"Adventure.h"
+	"gameInterface.h"
+	"Attribute.h"
+	"Parcel.h"
+	"PetFeed.h"
+
+1538566718 c:\users\administrator\desktop\chuanxin\chuanxin\demise.h
+	<stdio.h>
+	"ChoicePet.h"
+
+1538797127 c:\users\administrator\desktop\chuanxin\chuanxin\attribute.h
+	"ChoicePet.h"
+	<stdio.h>
+	<string>
+
+1538596294 c:\users\administrator\desktop\chuanxin\chuanxin\parcel.h
+	<iostream>
+	<string>
+	"Adventure.h"
+	"Choicepet.h"
+	"Attribute.h"
+
+1538589618 c:\users\administrator\desktop\chuanxin\chuanxin\petfeed.h
+	<iostream>
+	"Choicepet.h"
+	"Adventure.h"
+	"Parcel.h"
+
+1538797127 source:c:\users\administrator\desktop\chuanxin\chuanxin\attrbute.cpp
+	"Attribute.h"
+
+1538746106 source:c:\users\administrator\desktop\chuanxin\chuanxin\choicepet.cpp
+	<iostream>
+	<windows.h>
+	"ChoicePet.h"
+
+1538748664 source:c:\users\administrator\desktop\chuanxin\chuanxin\demise.cpp
+	"Demise.h"
+
+1538745370 source:c:\users\administrator\desktop\chuanxin\chuanxin\gameinterface.cpp
+	<iostream>
+	<windows.h>
+	"ChoicePet.h"
+	"GameInterface.h"
+
+1538747744 source:c:\users\administrator\desktop\chuanxin\chuanxin\main.cpp
+	<iostream>
+	"GameInterface.h"
+	"ChoicePet.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538783989 source:c:\users\administrator\desktop\chuanxin\chuanxin\petfeed.cpp
+	"PetFeed.h"
+
+1538797029 source:c:\users\administrator\desktop\chuanxin\chuanxin\parcel.cpp
+	<iostream>
+	<string>
+	"Attribute.h"
+	"Parcel.h"
+	"GameInterface.h"
+
+1538797169 source:c:\users\qzblx\desktop\chuanxin\chuanxin\adventure.cpp
+	<stdlib.h>
+	"Adventure.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538756883 c:\users\qzblx\desktop\chuanxin\chuanxin\adventure.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	"Choicepet.h"
+
+1538666766 c:\users\qzblx\desktop\chuanxin\chuanxin\choicepet.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<windows.h>
+	"GameInterface.h"
+
+1538666766 c:\users\qzblx\desktop\chuanxin\chuanxin\gameinterface.h
+	"ChoicePet.h"
+	"Demise.h"
+	"Adventure.h"
+	"gameInterface.h"
+	"Attribute.h"
+	"Parcel.h"
+	"PetFeed.h"
+
+1538566718 c:\users\qzblx\desktop\chuanxin\chuanxin\demise.h
+	<stdio.h>
+	"ChoicePet.h"
+
+1538797127 c:\users\qzblx\desktop\chuanxin\chuanxin\attribute.h
+	"ChoicePet.h"
+	<stdio.h>
+	<string>
+
+1538596294 c:\users\qzblx\desktop\chuanxin\chuanxin\parcel.h
+	<iostream>
+	<string>
+	"Adventure.h"
+	"Choicepet.h"
+	"Attribute.h"
+
+1538589618 c:\users\qzblx\desktop\chuanxin\chuanxin\petfeed.h
+	<iostream>
+	"Choicepet.h"
+	"Adventure.h"
+	"Parcel.h"
+
+1538831746 source:c:\users\qzblx\desktop\chuanxin\chuanxin\attrbute.cpp
+	"Attribute.h"
+
+1538746106 source:c:\users\qzblx\desktop\chuanxin\chuanxin\choicepet.cpp
+	<iostream>
+	<windows.h>
+	"ChoicePet.h"
+
+1538748664 source:c:\users\qzblx\desktop\chuanxin\chuanxin\demise.cpp
+	"Demise.h"
+
+1538832036 source:c:\users\qzblx\desktop\chuanxin\chuanxin\gameinterface.cpp
+	<iostream>
+	<windows.h>
+	"ChoicePet.h"
+	"GameInterface.h"
+
+1538747744 source:c:\users\qzblx\desktop\chuanxin\chuanxin\main.cpp
+	<iostream>
+	"GameInterface.h"
+	"ChoicePet.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538831820 source:c:\users\qzblx\desktop\chuanxin\chuanxin\parcel.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	"Attribute.h"
+	"Parcel.h"
+	"GameInterface.h"
+
+1538831821 source:c:\users\qzblx\desktop\chuanxin\chuanxin\petfeed.cpp
+	"PetFeed.h"
+
+1538797169 source:f:\nanzifeng\chuanxin\adventure.cpp
+	<stdlib.h>
+	"Adventure.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538756883 f:\nanzifeng\chuanxin\adventure.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	"Choicepet.h"
+
+1538666766 f:\nanzifeng\chuanxin\choicepet.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<windows.h>
+	"GameInterface.h"
+
+1538666766 f:\nanzifeng\chuanxin\gameinterface.h
+	"ChoicePet.h"
+	"Demise.h"
+	"Adventure.h"
+	"gameInterface.h"
+	"Attribute.h"
+	"Parcel.h"
+	"PetFeed.h"
+
+1538566718 f:\nanzifeng\chuanxin\demise.h
+	<stdio.h>
+	"ChoicePet.h"
+
+1538797127 f:\nanzifeng\chuanxin\attribute.h
+	"ChoicePet.h"
+	<stdio.h>
+	<string>
+
+1538596294 f:\nanzifeng\chuanxin\parcel.h
+	<iostream>
+	<string>
+	"Adventure.h"
+	"Choicepet.h"
+	"Attribute.h"
+
+1538589618 f:\nanzifeng\chuanxin\petfeed.h
+	<iostream>
+	"Choicepet.h"
+	"Adventure.h"
+	"Parcel.h"
+
+1538831746 source:f:\nanzifeng\chuanxin\attrbute.cpp
+	"Attribute.h"
+
+1538746106 source:f:\nanzifeng\chuanxin\choicepet.cpp
+	<iostream>
+	<windows.h>
+	"ChoicePet.h"
+
+1538748664 source:f:\nanzifeng\chuanxin\demise.cpp
+	"Demise.h"
+
+1538839724 source:f:\nanzifeng\chuanxin\gameinterface.cpp
+	<iostream>
+	<windows.h>
+	"ChoicePet.h"
+	"GameInterface.h"
+
+1538747744 source:f:\nanzifeng\chuanxin\main.cpp
+	<iostream>
+	"GameInterface.h"
+	"ChoicePet.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538839600 source:f:\nanzifeng\chuanxin\parcel.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	"Attribute.h"
+	"Parcel.h"
+	"GameInterface.h"
+
+1538839637 source:f:\nanzifeng\chuanxin\petfeed.cpp
+	"PetFeed.h"
+
+1538797170 source:c:\users\qzblx\desktop\chuanxin\adventure.cpp
+	<stdlib.h>
+	"Adventure.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538756884 c:\users\qzblx\desktop\chuanxin\adventure.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	"Choicepet.h"
+
+1538666766 c:\users\qzblx\desktop\chuanxin\choicepet.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<windows.h>
+	"GameInterface.h"
+
+1538666766 c:\users\qzblx\desktop\chuanxin\gameinterface.h
+	"ChoicePet.h"
+	"Demise.h"
+	"Adventure.h"
+	"gameInterface.h"
+	"Attribute.h"
+	"Parcel.h"
+	"PetFeed.h"
+
+1538566718 c:\users\qzblx\desktop\chuanxin\demise.h
+	<stdio.h>
+	"ChoicePet.h"
+
+1538797128 c:\users\qzblx\desktop\chuanxin\attribute.h
+	"ChoicePet.h"
+	<stdio.h>
+	<string>
+
+1538596294 c:\users\qzblx\desktop\chuanxin\parcel.h
+	<iostream>
+	<string>
+	"Adventure.h"
+	"Choicepet.h"
+	"Attribute.h"
+
+1538589618 c:\users\qzblx\desktop\chuanxin\petfeed.h
+	<iostream>
+	"Choicepet.h"
+	"Adventure.h"
+	"Parcel.h"
+
+1538831748 source:c:\users\qzblx\desktop\chuanxin\attrbute.cpp
+	"Attribute.h"
+
+1538883776 source:c:\users\qzblx\desktop\chuanxin\demise.cpp
+	"Demise.h"
+
+1538747744 source:c:\users\qzblx\desktop\chuanxin\main.cpp
+	<iostream>
+	"GameInterface.h"
+	"ChoicePet.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538839602 source:c:\users\qzblx\desktop\chuanxin\parcel.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	"Attribute.h"
+	"Parcel.h"
+	"GameInterface.h"
+
+1538839638 source:c:\users\qzblx\desktop\chuanxin\petfeed.cpp
+	"PetFeed.h"
+
+1538883452 source:c:\users\qzblx\desktop\chuanxin\choicepet.cpp
+	<iostream>
+	<windows.h>
+	"ChoicePet.h"
+
+1538883773 source:c:\users\qzblx\desktop\chuanxin\gameinterface.cpp
+	<iostream>
+	<windows.h>
+	"ChoicePet.h"
+	"GameInterface.h"
+
+1538797170 source:c:\users\qzblx\desktop\投食养成项目\成品\petraising\adventure.cpp
+	<stdlib.h>
+	"Adventure.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538756884 c:\users\qzblx\desktop\投食养成项目\成品\petraising\adventure.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	"Choicepet.h"
+
+1538666766 c:\users\qzblx\desktop\投食养成项目\成品\petraising\choicepet.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<windows.h>
+	"GameInterface.h"
+
+1538666766 c:\users\qzblx\desktop\投食养成项目\成品\petraising\gameinterface.h
+	"ChoicePet.h"
+	"Demise.h"
+	"Adventure.h"
+	"gameInterface.h"
+	"Attribute.h"
+	"Parcel.h"
+	"PetFeed.h"
+
+1538566718 c:\users\qzblx\desktop\投食养成项目\成品\petraising\demise.h
+	<stdio.h>
+	"ChoicePet.h"
+
+1538797128 c:\users\qzblx\desktop\投食养成项目\成品\petraising\attribute.h
+	"ChoicePet.h"
+	<stdio.h>
+	<string>
+
+1538596294 c:\users\qzblx\desktop\投食养成项目\成品\petraising\parcel.h
+	<iostream>
+	<string>
+	"Adventure.h"
+	"Choicepet.h"
+	"Attribute.h"
+
+1538589618 c:\users\qzblx\desktop\投食养成项目\成品\petraising\petfeed.h
+	<iostream>
+	"Choicepet.h"
+	"Adventure.h"
+	"Parcel.h"
+
+1538831748 source:c:\users\qzblx\desktop\投食养成项目\成品\petraising\attrbute.cpp
+	"Attribute.h"
+
+1538883955 source:c:\users\qzblx\desktop\投食养成项目\成品\petraising\choicepet.cpp
+	<iostream>
+	<windows.h>
+	"ChoicePet.h"
+
+1538883776 source:c:\users\qzblx\desktop\投食养成项目\成品\petraising\demise.cpp
+	"Demise.h"
+
+1538883956 source:c:\users\qzblx\desktop\投食养成项目\成品\petraising\gameinterface.cpp
+	<iostream>
+	<windows.h>
+	"ChoicePet.h"
+	"GameInterface.h"
+
+1538839602 source:c:\users\qzblx\desktop\投食养成项目\成品\petraising\parcel.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	"Attribute.h"
+	"Parcel.h"
+	"GameInterface.h"
+
+1538839638 source:c:\users\qzblx\desktop\投食养成项目\成品\petraising\petfeed.cpp
+	"PetFeed.h"
+
+1538797170 source:d:\dw\cpp\投食养成项目究极成品\投食养成项目究极成品\petraising\adventure.cpp
+	<stdlib.h>
+	"Adventure.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538756884 d:\dw\cpp\投食养成项目究极成品\投食养成项目究极成品\petraising\adventure.h
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	"Choicepet.h"
+
+1538666766 d:\dw\cpp\投食养成项目究极成品\投食养成项目究极成品\petraising\choicepet.h
+	<iostream>
+	<stdlib.h>
+	<string>
+	<windows.h>
+	"GameInterface.h"
+
+1538666766 d:\dw\cpp\投食养成项目究极成品\投食养成项目究极成品\petraising\gameinterface.h
+	"ChoicePet.h"
+	"Demise.h"
+	"Adventure.h"
+	"gameInterface.h"
+	"Attribute.h"
+	"Parcel.h"
+	"PetFeed.h"
+
+1538566718 d:\dw\cpp\投食养成项目究极成品\投食养成项目究极成品\petraising\demise.h
+	<stdio.h>
+	"ChoicePet.h"
+
+1538797128 d:\dw\cpp\投食养成项目究极成品\投食养成项目究极成品\petraising\attribute.h
+	"ChoicePet.h"
+	<stdio.h>
+	<string>
+
+1538596294 d:\dw\cpp\投食养成项目究极成品\投食养成项目究极成品\petraising\parcel.h
+	<iostream>
+	<string>
+	"Adventure.h"
+	"Choicepet.h"
+	"Attribute.h"
+
+1538589618 d:\dw\cpp\投食养成项目究极成品\投食养成项目究极成品\petraising\petfeed.h
+	<iostream>
+	"Choicepet.h"
+	"Adventure.h"
+	"Parcel.h"
+
+1538831748 source:d:\dw\cpp\投食养成项目究极成品\投食养成项目究极成品\petraising\attrbute.cpp
+	"Attribute.h"
+
+1538883955 source:d:\dw\cpp\投食养成项目究极成品\投食养成项目究极成品\petraising\choicepet.cpp
+	<iostream>
+	<windows.h>
+	"ChoicePet.h"
+
+1538883776 source:d:\dw\cpp\投食养成项目究极成品\投食养成项目究极成品\petraising\demise.cpp
+	"Demise.h"
+
+1538883956 source:d:\dw\cpp\投食养成项目究极成品\投食养成项目究极成品\petraising\gameinterface.cpp
+	<iostream>
+	<windows.h>
+	"ChoicePet.h"
+	"GameInterface.h"
+
+1538884882 source:d:\dw\cpp\投食养成项目究极成品\投食养成项目究极成品\petraising\main.cpp
+	<iostream>
+	"GameInterface.h"
+	"ChoicePet.h"
+	"Attribute.h"
+	"Parcel.h"
+
+1538839602 source:d:\dw\cpp\投食养成项目究极成品\投食养成项目究极成品\petraising\parcel.cpp
+	<iostream>
+	<windows.h>
+	<string>
+	"Attribute.h"
+	"Parcel.h"
+	"GameInterface.h"
+
+1538839638 source:d:\dw\cpp\投食养成项目究极成品\投食养成项目究极成品\petraising\petfeed.cpp
+	"PetFeed.h"
+

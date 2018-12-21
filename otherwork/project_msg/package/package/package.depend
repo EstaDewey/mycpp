@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1543690901 source:d:\dw\mycpp\package\package\main.cpp
+	"main.hpp"
+
+1543690159 d:\dw\mycpp\package\package\main.hpp
+	"package.hpp"
+
+1543690786 source:d:\dw\mycpp\package\package\package.cpp
+	"package.hpp"
+
+1543690077 d:\dw\mycpp\package\package\package.hpp
+	<iostream>
+	<stdio.h>
+	<string>
+	<vector>
+	<stdlib.h>
+	<sstream>
+	<cstring>
+	<cmath>
+

@@ -1,0 +1,277 @@
+探索(Adbenture)
+/*
+简介:探索函数定义
+作者：FRP - 史莱姆
+创建时间:2018/10/2
+*/
+
+#include <iostream>
+#include <stdlib.h>
+#include<time.h>
+#include<string>
+#include "Choicepet.h"
+
+using namespace std;
+
+/**探索*/
+int PetAdventure(int hp,string race,int action,string name);
+
+/**探索丛林*/
+int AdtJungle(int hp,int action,string name,string race);
+
+/**探索海边*/
+int AdtSeaside(int hp,int action,string name,string race);
+
+/**探索深山*/
+int AdtRemotemountains(int hp,int action,string name,string race);
+
+/**探索树叶*/
+int Adtleaf(int hp,int action,string name,string race);
+
+/**探索花朵*/
+int Adtflower(int hp,int action,string name,string race);
+
+/**探索树*/
+int AdtTree(int hp,int action,string name,string race);
+
+/**探索海底*/
+int AdtSeabed(int hp,int action,string name,string race);
+
+/**探索超市*/
+int AdtSupermarket(int hp,int action,string name,string race);
+
+/**探索饭店*/
+int AdtRestaurant(int hp,int action,string name,string race);
+
+/**探索实验室*/
+int AdtLab(int hp,int action,string name,string race);
+
+/**探索平原*/
+int AdtFlatlands(int hp,int action,string name,string race);
+
+/**探索下水道*/
+int AdtSewer(int hp,int action,string name,string race);
+
+/**随机减少生命*/
+void RandEvent();
+
+/**随机获得行动点*/
+void RandEvent2();
+
+/**显示获得物品*/
+void DisPlay(string race,int y);
+
+/**显示食物属性*/
+void FindAttribute(string race,int y);
+
+/**显示获得食物名称*/
+void FindFoodNames(string race,int y);
+
+/**显示食物介绍*/
+void FindFoodIntroduce(string race,int y);
+
+/**获得物品*/
+void FindFood(int there);
+
+/**探索互动*/
+void ExploringLnteraction();
+
+/**组长 浅挚*/
+extern int MonsterQianzhi[3];
+
+/**获得食物*/
+
+extern int food;
+
+
+
+背包(Parcel.h)
+/*
+简介:背包函数定义
+作者:FRP - 威
+创建时间:
+*/
+
+#include <iostream>
+#include <string>
+#include "Adventure.h"
+#include "Choicepet.h"
+#include "Attribute.h"
+
+using namespace std;
+
+
+/**背包*/
+int UserParcel();
+/**背包物品增减*/
+int UserParcelop(int num,int discard,int employ,int get);
+/**退出背包*/
+int ExitParcel();
+/**显示物品*/
+int DisplayMaterials();
+/**退出显示物品*/
+int ExitDisplayMaterials();
+/**宠物反馈总函数*/
+int Petreflect(int reflect,int num);
+/**宠物喂食反馈*/
+int PetFeedReflect(int num);
+/**背包数组*/
+extern int parcel[10][2];
+
+
+
+喂食(PetFeed)
+/*
+简介:喂食函数
+作者:笑容不是为我
+创建时间:2018.10.3
+*/
+
+#include <iostream>
+#include "Choicepet.h"
+#include "Adventure.h"
+#include "Parcel.h"
+
+using namespace std;
+
+int PetFeed();
+
+
+成就(Attribute)
+/*
+简介:基础属性的保存
+作者：FRP - 楠子疯
+创建时间:2018/10/2
+*/
+#include "ChoicePet.h"
+#include <stdio.h>
+#include <string>
+
+using namespace std;
+
+/**种族食物分类数组*/
+extern  std::string materials[][12];
+
+/**食物介绍数组*/
+extern  std::string mtsIntroduce[48];
+
+/**食物属性数组:第一个是生命值、第二个是饱食度、第三个是武力*/
+extern  int mstAttribute[][4];
+
+/**成功探索次数*/
+extern int sufulAdventure;
+
+/**成功获得物品次数*/
+extern int sufulAcqMatls;
+
+/**成功探索丛林次数*/
+extern int sufulJungle;
+
+/**成功探索树木次数*/
+extern int sufulTree;
+
+/**成功探索老九超市次数*/
+extern int sufulSupermarke;
+
+/**成功探索海底次数*/
+extern int sufulSeabed;
+
+/**成功探索下水道次数*/
+extern int sufulSewer;
+
+/**成功探索老九餐馆次数*/
+extern int sufulRestaurant;
+
+/**成功探索深山次数*/
+extern int sufulRetmountains;
+
+extern int parcel [10][2];
+
+void Achievement();
+
+
+
+
+
+	属性(choicepet)
+/*
+简介:选择宠物函数定义
+作者：FRP - 浅挚
+创建时间:2018/10/2
+*/
+
+
+#include<iostream>
+#include <stdlib.h>
+#include<string>
+#include <windows.h>
+#include "GameInterface.h"
+
+using namespace std;
+
+/**种族*/
+extern string race;
+/**名字*/
+extern string name;
+/**宠物体力*/
+extern int hp;
+/**宠物武力*/
+extern int fighting;
+/**宠物饱食度*/
+extern int befull;
+/**宠物食物每天消耗*/
+extern int foodconsumption;
+/**宠物行动*/
+extern int action;
+/**宠物寿命*/
+extern int lifetime ;
+/**宠物生存天数*/
+extern int survivaldays;
+/**宠物饱食度最大值*/
+extern int befull_MAX;
+/**宠物选择*/
+int PetAttribute();
+	 
+	 
+	 
+	 
+	 
+	 死亡(Demise)
+	 /*
+简介:宠物死亡函数定义
+作者:FRP - 浅挚
+创建时间:2018/10/02
+*/
+
+using namespace std;
+
+/**宠物死亡*/
+int PetDemise();
+	
+	
+	
+	
+	界面(GameInterface)
+	/*
+简介:游戏界面函数定义
+作者:FRP - 楠子疯
+创建时间:2018/10/2
+*/
+
+#include "ChoicePet.h"
+#include "Demise.h"
+#include "Adventure.h"
+#include "gameInterface.h"
+#include "Attribute.h"
+#include "Parcel.h"
+#include "PetFeed.h"
+
+using namespace std;
+
+/**游戏开始界面*/
+int StartScreen();
+
+void ShowAttribute();
+
+/**游戏选择界面*/
+void GameInterface();
