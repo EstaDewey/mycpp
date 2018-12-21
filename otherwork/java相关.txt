@@ -1,0 +1,30 @@
+周一：
+1什么是平台？平台包含什么？
+平台:程序运行的环境
+包含：硬件环境和操作系统。
+2java除此之外还有哪些优势
+1）面向对象
+2）兼容性
+3）跨平台
+4）多线程
+5）扩展多
+
+周二：
+1、JVM是什么？
+java虚拟机，java virtual machine简称 通过在真是计算机上仿真模拟各种计算机功能实现的，是虚构的计算机。
+2、JVM 的作用及原理
+作用：方便java代码移植，实现一次编译，多平台运行
+原理：java编译后生产.class文件，jvm则负责将。class文件转换成其所在对应平台的机器码然后运行
+3、JVM是否也是“跨平台”的
+不是跨平台的。jvm是为了实现java程序跨平台而存在的。它是针对不同平台有不同版本从而使java代码实现跨平台运行
+4、什么是JRE？JRE包含什么？
+1）java runtime environment 简称，即为java运行时的环境。是使用java语言编写程序运行所需要的软件环境，是提供给想运行java程序用户使用的。
+2）包含了jvm和基础类库
+
+
+周三
+1、什么是JDK（JRE+,JVM+java开发所需的工具）？JDK包含什么？（开发工具包）
+1）java Development Kit简称，即java开发工具包，java程序开发所需的软件环境
+2）jdk包含：jre，编译java源码的编译器javac，java程序的调试和分析工具：jconsole、jvisualvm等软件，java程序编写所需的文档和demo例子程序
+2、若想要开发java程序，仅仅安装JDK可以以吗？（JDK） 
+不仅需要开发工具包，还需要编辑器如Eclipse，领需要JCreator,JBuilder
